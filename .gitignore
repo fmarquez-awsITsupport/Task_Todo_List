@@ -32,3 +32,5 @@ htmlcov/
 
 # Archivos de Jupyter Notebooks
 .ipynb_checkpoints/
+
+*.db
